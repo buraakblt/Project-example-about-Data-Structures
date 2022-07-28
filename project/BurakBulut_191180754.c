@@ -11,7 +11,8 @@ Array:	Arrays are used to store multiple data of the same type with a indexes to
 		uses array for its base so it is most basic and most important i  think). I used array for reading the input file and i used a array in creation of stack too.
 		Name-Surname: Burak Bulut
 		Student ID: 191180754
-		Data Structures Midterm 
+		Data Structures Midterm
+         
 		
 */
 #include <stdio.h>
